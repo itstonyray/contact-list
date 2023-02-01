@@ -1,4 +1,4 @@
-let Contactlist = ["Luffy", "Sabo", "Ace"];
+let Contactlist = ["Monkey D. Luffy ", "Portgas D. Ace", "Roronoa Zoro"];
 
 function addcontact(Contactname) {
   Contactlist.push(Contactname);
